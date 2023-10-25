@@ -1,5 +1,5 @@
 # LocalZO
-##Direct Training of SNN using Local Zeroth Order Method
+## Direct Training of SNN using Local Zeroth Order Method
 Bhaskar Mukhoty,  Velibor Bojkovi\'c, William de Vazelhes, Xiaohan Zhao,  Giulia De Masi, Huan Xiong, Bin Gu
 37th Conference on Neural Information Processing Systems
 
