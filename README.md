@@ -1,7 +1,8 @@
 # LocalZO
 Direct Training of SNN using Local Zeroth Order Method
+
 @inproceedings{mukhoty2023direct,
-  title={Energy Efficient Training of SNN using Local Zeroth Order Method},
+  title={Direct Training of SNN using Local Zeroth Order Method},
   author={Mukhoty, Bhaskar and Bojkovic, Velibor and de Vazelhes, William and Zhao, Xiaohan and De Masi, Giulia and Xiong, Huan and Gu, Bin},
   booktitle={Conference on Neural Information Processing Systems},
   year={2023}
