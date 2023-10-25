@@ -18,13 +18,15 @@ The Following Setup is tested and it is working:
  * Pytorch>=1.9.0
  * Cuda>=10.2
 
-Usage:
-## For LocalZO+TET
+## Usage:
+### For LocalZO+TET
 python3 ./main_training_parallel.py --lr 0.001 --T 6 --lamb 0.05 --epochs 300 --batch_size 64 --TET 1  --cut 1 --seed 1000 --dataset cifar10 --resume 0
+
 python3 ./main_test.py --T 6 --TET 1 --cut 1 --dataset cifar10 --batch_size 64  
  
-## For LocalZO+tdBN
+### For LocalZO+tdBN
 python3 ./main_training_parallel.py --lr 0.001 --T 6 --lamb 0.05 --epochs 300 --batch_size 64 --TET 0  --cut 1 --seed 1000 --dataset cifar10 --resume 0
+
 python3 ./main_test.py --T 6 --TET 0 --cut 1 --dataset cifar10 --batch_size 64
 
 ## Contact:
