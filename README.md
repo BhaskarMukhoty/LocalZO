@@ -2,15 +2,13 @@
 ## Direct Training of SNN using Local Zeroth Order Method
 Bhaskar Mukhoty,  Velibor Bojkovic, William de Vazelhes, Xiaohan Zhao, Giulia De Masi, Huan Xiong, Bin Gu
 
-37th Conference on Neural Information Processing Systems
+In 37th Conference on Neural Information Processing Systems
 
-The code re-uses the following work:  
-@inproceedings{deng2021temporal,
-  title={Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting},
-  author={Deng, Shikuang and Li, Yuhang and Zhang, Shanghang and Gu, Shi},
-  booktitle={International Conference on Learning Representations},
-  year={2021}
-}
+Link to the [paper](https://openreview.net/pdf?id=eTF3VDH2b6)
+
+The code re-uses the following repositories:  
+[Temporal Efficient Training](https://github.com/brain-intelligence-lab/temporal_efficient_training), [Sparse Spiking Gradient Descent](https://github.com/npvoid/SparseSpikingBackprop) 
+
 
 ## Prerequisites
 The Following Setup is tested and it is working:
